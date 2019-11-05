@@ -1,1 +1,1 @@
-console.log('only test')
+console.log('only test');
